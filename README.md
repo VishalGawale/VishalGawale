@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishalGawale
-- 🧑‍🎓 I'am, Studyinh Msc. Software Engineering, Heilbronn, Germany
+- 🧑‍🎓 M.Sc. Software Engineering Student in Heilbronn, Germany
 - 👨‍💻 Ex-Software Developer (2.9 years experience)
 - 👀 I’m interested in ...Coding and Coading and ... Coading.
 - 💞️ I’m looking to collaborate on ...NEW EXCITING PROJECTS AND WORKS AND CONTRIBUTE TO COMMUNITY
