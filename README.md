@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishalGawale
-- 👨‍💻 I'am, Working as Full Stack Developer
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Angular 8-9-10-Latest/JavaScript/Java/ReactJS/NodeJS/OrclePL-SQL/HTML/SCSS
+- 🧑‍🎓 I'am, Studyinh Msc. Software Engineering, Heilbronn, Germany
+- 👨‍💻 Ex-Software Developer (2.9 years experience)
+- 👀 I’m interested in ...Coding and Coading and ... Coading.
 - 💞️ I’m looking to collaborate on ...NEW EXCITING PROJECTS AND WORKS AND CONTRIBUTE TO COMMUNITY
 - 📫 How to reach me ...
 
