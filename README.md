@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VishalGawale
 - 🧑‍🎓 M.Sc. Software Engineering Student in Heilbronn, Germany
-- 👨‍💻 Ex-Software Developer (2.9 years experience)
-- 👀 I’m interested in ...Coding and Coading and ... Coading.
-- 💞️ I’m looking to collaborate on ...NEW EXCITING PROJECTS AND WORKS AND CONTRIBUTE TO COMMUNITY
-- 📫 How to reach me ...
+- 👨‍💻 Experienced professional with 2.6 years (Software Developer) and 6 months (Project Manager)
+- 👀 Passionate about coding and exploring innovative technologies
+- 💞️ Eager to collaborate on exciting projects and make meaningful contributions to the community
+- 📫 Reach out to me via...[https://www.linkedin.com/in/vishal-gawale-8ba155160/]
 
 <!---
 VishalGawale/VishalGawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
