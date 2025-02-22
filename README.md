@@ -1,6 +1,6 @@
 # Hello World! 👋 Meet Vishal Gawale
 
-I’m a **code craftsman**, **tech adventurer**, and **M.Sc. Software Engineering & Management student** living in Heilbronn, Germany. This is my GitHub playground—where ideas turn into code and innovation takes flight!
+I’m a **code craftsman**, **tech adventurer**, and **M.Sc. Software Engineering & Management student** living in Heilbronn, Germany. This is my GitHub playground where ideas turn into code and innovation takes flight!
 
 ---
 
@@ -14,7 +14,7 @@ I’m a **code craftsman**, **tech adventurer**, and **M.Sc. Software Engineerin
 ---
 
 ## ✨ What’s This Space About?
-This isn’t just a profile—it’s my tech story! From coding experiments to project wins, I’m here to build, learn, and inspire. Scroll down, explore my repos, and let’s create something awesome together!
+This isn’t just a profile, it’s my tech story! From coding experiments to project wins, I’m here to build, learn, and inspire. Scroll down, explore my repos, and let’s create something awesome together!
 
 ---
 
