@@ -24,7 +24,7 @@ Got a wild idea, a coding question, or just want to talk tech? Hit me up:
 
 ---
 
-*“Great code builds bridges—let’s construct something epic!”*  
+*“Great code builds bridges, let’s construct something epic!”*  
 Happy coding! 🚀
 
 <!---
